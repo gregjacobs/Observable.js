@@ -183,7 +183,7 @@
 	 * 
 	 * For example:
 	 * 
-	 *     Employee = Kevlar.extend(Kevlar.util.Observable, {
+	 *     Employee = Class.extend(Observable, {
 	 *         constructor: function( config ) {
 	 *             this.name = config.name;
 	 *             this.addEvents( {
@@ -253,7 +253,7 @@
 				 * 
 				 * Ex:
 				 * 
-				 *     var myObservable = new Kevlar.util.Observable();
+				 *     var myObservable = new Observable();
 				 *     myObservable.on( 'all', function( eventName ) {
 				 *         console.log( "Event '" + eventName + "' was fired with args: ", Array.prototype.slice.call( arguments, 1 ) );
 				 *     } );
