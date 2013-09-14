@@ -3,3 +3,4 @@
 .externalToolBuilders
 web.config
 bower_components
+node_modules

@@ -1,0 +1,29 @@
+{
+  "name": "Observable.js",
+  "description": "Class for implementing events in your JS objects.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gregjacobs/Observable.js",
+  "author": {
+    "name": "Gregory Jacobs <greg@greg-jacobs.com>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gregjacobs/Observable.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gregjacobs/Observable.js/issues"
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-concat": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.0"
+  },
+  "keywords": [
+    "observable", "event", "publish", "subscribe", "class"
+  ]
+}
