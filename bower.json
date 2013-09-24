@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "Class-js": "~0.5.0",
-    "lodash": "official-lodash#~2.0.0"
+    "lodash": "~2.1.0"
   }
 }
