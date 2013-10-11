@@ -1,7 +1,7 @@
 {
   "name": "Observable.js",
   "description": "Class for implementing events in your JS objects.",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "homepage": "https://github.com/gregjacobs/Observable.js",
   "author": {
     "name": "Gregory Jacobs <greg@greg-jacobs.com>"
